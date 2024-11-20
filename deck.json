@@ -1,0 +1,34 @@
+{
+    "decks": [
+        {
+            "nom": "Deck 1",
+            "amene": true,
+            "gros_deck": false,
+            "proxy": false
+        },
+        {
+            "nom": "Deck 2",
+            "amene": false,
+            "gros_deck": true,
+            "proxy": false
+        },
+        {
+            "nom": "Deck 3",
+            "amene": false,
+            "gros_deck": true,
+            "proxy": true
+        },
+        {
+            "nom": "Deck 4",
+            "amene": true,
+            "gros_deck": false,
+            "proxy": true
+        },
+        {
+            "nom": "Deck 5",
+            "amene": false,
+            "gros_deck": false,
+            "proxy": false
+        }
+    ]
+}
